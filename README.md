@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React; Kotlin and Outsystems**
 
-- 👨‍💻 All of my projects are available at [https://github.com/joel95713](https://github.com/joel95713)
-
 - 📫 How to reach me **joel95713@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
