@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joel Lopes</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Portugal</h3>
+About Me
+
+🎓 I study Full-Stack Web Development and hold a degree in Nursing
+
+🔎 I'm also curious about history, technology, and physics
+
+✒️ In my free time, I enjoy watching movies, especially those related to technology.
+
+Technologies and Tools
 
 - 🌱 I’m currently learning **React; Kotlin and Outsystems**
 
